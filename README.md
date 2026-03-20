@@ -2,7 +2,7 @@
 
 [![arXiv](https://img.shields.io/badge/Arxiv-Paper-b31b1b.svg)](https://arxiv.org)
 [![Task](https://img.shields.io/badge/Task-VideoQA-blue.svg)]()
-[![Project Page](https://img.shields.io/badge/Web-Project_Page-yellow.svg)](https://videodetective.github.io/VideoDetective/)
+[![Project Page](https://img.shields.io/badge/Web-Project_Page-yellow.svg)](https://videodetective.github.io/)
 
 **VideoDetective** is a plug-and-play inference framework for long-video understanding that integrates extrinsic query relevance with intrinsic video structure.
 
